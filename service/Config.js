@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://facebook.github.io/react-native';
